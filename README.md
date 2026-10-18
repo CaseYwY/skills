@@ -31,6 +31,8 @@ gh skill install CaseYwY/skills manage-project-skills --agent opencode
 Works with OpenCode, Claude Code, Cursor, Codex and ~40 other agents.
 支持 OpenCode、Claude Code、Cursor、Codex 等 40+ agent。
 
+**Compatible with / 兼容**: [skills.sh](https://skills.sh) registry · [vercel-labs/skills](https://github.com/vercel-labs/skills) CLI · [`gh skill install`](https://cli.github.com) (GitHub CLI) — all follow the [Agent Skills specification](https://agentskills.io).
+
 ## Versioning / 版本
 
 Releases are tagged (semver) — pin a version via `gh skill install CaseYwY/skills manage-project-skills@v1.0.0`.
