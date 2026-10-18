@@ -1,5 +1,6 @@
 ---
 name: manage-project-skills
+license: MIT
 description: Manage a project's agent skills across four modes — T0 start-up inventory (read-only), T1 gap-driven single install mid-task, T2 batch install after the plan is settled, and a library audit mode (duplicates, conflicts, bloat, dead references). Local-first. Use when the user says "初始化项目技能/管理项目技能", "给这个项目配技能/装技能", "审计技能库", "audit skills", or a task hits a durable capability gap. NOT for authoring skills (use skill-creator) or one-off answer lookups (search docs or `npx skills find` instead, install nothing).
 ---
 

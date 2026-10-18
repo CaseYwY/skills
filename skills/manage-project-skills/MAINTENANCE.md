@@ -75,3 +75,5 @@ gh skill install CaseYwY/skills manage-project-skills --agent opencode    # GitH
 - any file referenced by SKILL.md must ship inside the skill directory
 
 **Semver policy**: major = breaking rule changes (removed modes/gates) · minor = new modes/rules/checks · patch = wording/compression/typos. Record each release in the ledger.
+
+**Pin flag**: `gh skill install CaseYwY/skills manage-project-skills --pin v1.0.0` — the release-pinning form (alternative to `@version`).
